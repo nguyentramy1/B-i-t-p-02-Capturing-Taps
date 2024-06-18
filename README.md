@@ -10,3 +10,4 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 "# B-i-t-p-02-Capturing-Taps" 
+![image](https://github.com/nguyentramy1/B-i-t-p-02-Capturing-Taps/assets/168984915/dace8499-f384-4bdd-8e3c-ce5c9cf78e4d)
